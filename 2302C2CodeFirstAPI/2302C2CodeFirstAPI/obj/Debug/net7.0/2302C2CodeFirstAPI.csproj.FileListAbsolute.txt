@@ -1,0 +1,305 @@
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.exe
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.deps.json
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.runtimeconfig.json
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.pdb
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.csproj.AssemblyReference.cache
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.AssemblyInfoInputs.cache
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.AssemblyInfo.cs
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.csproj.CoreCompileInputs.cache
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.2302C2CodeFirstAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.2302C2CodeFirstAPI.props
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.2302C2CodeFirstAPI.props
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.2302C2CodeFirstAPI.props
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\scopedcss\bundle\2302C2CodeFirstAPI.styles.css
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2Co.8C58E2FB.Up2Date
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\refint\2302C2CodeFirstAPI.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.pdb
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.genruntimeconfig.cache
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\ref\2302C2CodeFirstAPI.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Haris Naseer\3RD SEMESTER\Web API\2302C2\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.sourcelink.json
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.exe
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.deps.json
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.runtimeconfig.json
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.pdb
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.csproj.AssemblyReference.cache
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.AssemblyInfo.cs
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.2302C2CodeFirstAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.2302C2CodeFirstAPI.props
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.2302C2CodeFirstAPI.props
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.2302C2CodeFirstAPI.props
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\scopedcss\bundle\2302C2CodeFirstAPI.styles.css
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.csproj.CopyComplete
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\refint\2302C2CodeFirstAPI.dll
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.pdb
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.genruntimeconfig.cache
+C:\Users\asp\Desktop\2302c2 full stack\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\ref\2302C2CodeFirstAPI.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\appsettings.json
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.exe
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.deps.json
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.runtimeconfig.json
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.pdb
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Humanizer.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.csproj.AssemblyReference.cache
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.AssemblyInfoInputs.cache
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.AssemblyInfo.cs
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.csproj.CoreCompileInputs.cache
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.2302C2CodeFirstAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.2302C2CodeFirstAPI.props
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.2302C2CodeFirstAPI.props
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.2302C2CodeFirstAPI.props
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\scopedcss\bundle\2302C2CodeFirstAPI.styles.css
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2Co.8C58E2FB.Up2Date
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\refint\2302C2CodeFirstAPI.dll
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.pdb
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.genruntimeconfig.cache
+E:\2302C2-fullstack-main\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\ref\2302C2CodeFirstAPI.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\appsettings.json
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.exe
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.deps.json
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.runtimeconfig.json
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\2302C2CodeFirstAPI.pdb
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Humanizer.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.csproj.AssemblyReference.cache
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.AssemblyInfoInputs.cache
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.AssemblyInfo.cs
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.csproj.CoreCompileInputs.cache
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.2302C2CodeFirstAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.2302C2CodeFirstAPI.props
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.2302C2CodeFirstAPI.props
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.2302C2CodeFirstAPI.props
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\scopedcss\bundle\2302C2CodeFirstAPI.styles.css
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2Co.8C58E2FB.Up2Date
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\refint\2302C2CodeFirstAPI.dll
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.pdb
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\2302C2CodeFirstAPI.genruntimeconfig.cache
+E:\ABDULLAH_SIDDIQUI\2302C2CodeFirstAPI\2302C2CodeFirstAPI\obj\Debug\net7.0\ref\2302C2CodeFirstAPI.dll

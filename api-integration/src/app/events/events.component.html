@@ -1,0 +1,55 @@
+<div class="container my-5">
+  <h1>HN Event Organizer's</h1>
+  <table class="table table-responsive table-bordered text-center border-black">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Customer Name</th>
+        <th>Event Type</th>
+        <th>Date (DD-MM-YYYY)</th>
+        <th>No. of Guests</th>
+        <th>Total Bill</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let event of events; let i = index">
+        <th scope="row">{{ (currentPage - 1) * pageSize + i + 1 }}</th>
+        <td>{{ event.customerName }}</td>
+        <td>{{ event.eventType.type }}</td>
+        <td>{{ event.date | date: 'dd-MM-yyyy' }}</td>
+        <td>{{ event.noOfGuests }} Persons</td>
+        <td>Rs. {{ event.noOfGuests * event.eventType.pricePerPerson | number:'1.0-0' }}</td>
+
+        <td>
+          <button class="btn btn-outline-primary" [routerLink]="['/editEvent', event.id]">
+            Edit
+          </button>
+          |
+          <button class="btn btn-outline-danger" [routerLink]="['/deleteEvent', event.id]">
+            Delete
+          </button>
+        </td>
+      </tr>
+      <tr *ngIf="events.length === 0">
+        <td colspan="7" class="text-center">No Events Found</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="d-flex justify-content-between align-items-center mt-3">
+    <div>
+      Showing {{ showingRange }} out of {{ totalEvents }} entries
+    </div>
+
+    <div>
+      <button class="btn btn-outline-dark me-2" (click)="previousPage()" [disabled]="currentPage === 1">
+        Previous
+      </button>
+      <span>Page {{ currentPage }} of {{ totalPages }}</span>
+      <button class="btn btn-outline-dark ms-2" (click)="nextPage()" [disabled]="currentPage === totalPages">
+        Next
+      </button>
+    </div>
+  </div>
+</div>

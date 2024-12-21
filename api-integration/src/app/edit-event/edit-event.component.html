@@ -1,0 +1,51 @@
+<div class="container pt-4 px-4">
+  <div class="row g-4">
+    <div class="bg-dark rounded h-100 p-4 text-light">
+      <h1>Edit Event</h1>
+      <hr>
+      <form>
+        <div class="col-sm-12 col-xl-12 mb-3">
+          <div class="form-group">
+            <label for="customerName" class="form-label">Customer Name</label>
+            <input type="text" class="form-control" name="customerName" [(ngModel)]="event.customerName" required>
+          </div>
+        </div>
+        <div class="col-sm-12 col-xl-12 mb-3">
+          <div class="row g-4">
+            <div class="col-sm-12 col-md-6">
+              <div class="form-group">
+                <label for="noOfGuests" class="form-label">No of guests</label>
+                <input type="number" class="form-control" name="noOfGuests" [(ngModel)]="event.noOfGuests" min="50"
+                  required>
+              </div>
+            </div>
+            <div class="col-sm-12 col-md-6">
+              <div class="form-group">
+                <label for="date" class="form-label">Event Date</label>
+                <input type="date" class="form-control" name="date" [(ngModel)]="event.formattedDate" [min]="minDate"
+                  required>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-xl-12 mb-3">
+          <div class="form-group">
+            <label for="eventTypeId" class="form-label">Event type</label>
+            <select class="form-control" name="eventTypeId" [(ngModel)]="event.eventTypeId" required>
+              <option value="none" disabled selected>Choose event type</option>
+              @for(ev of eventTypes; track $index){
+              <option value="{{ev.id}}">{{ev.type}} | Rs. {{ev.pricePerPerson}} per person</option>
+
+              }
+            </select>
+          </div>
+        </div>
+        <div class="col-sm-12 col-xl-12 mt-4 mb-2">
+          <div class="form-group">
+            <input type="submit" value="Edit Event" class="btn btn-outline-light w-100" (click)="editEvent()" />
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,41 @@
+<div class="container pt-4 px-4">
+    <div class="row g-4">
+        <div class="bg-dark rounded h-100 p-4 text-light">
+            <h1>Delete Event</h1>
+            <hr>
+            <dl class="row">
+                <dt class="col-sm-4">
+                    Customer Name
+                </dt>
+                <dd class="col-sm-8">
+                    {{eventDetails.customerName}}
+                </dd>
+                <dt class="col-sm-4">
+                    Event Type
+                </dt>
+                <dd class="col-sm-8">
+                    {{eventDetails.eventType.type}}
+                </dd>
+                <dt class="col-sm-4">
+                    Event Date (DD-MM-YYYY)
+                </dt>
+                <dd class="col-sm-8">
+                    {{eventDetails.date | date: 'dd-MM-yyyy'}}
+                </dd>
+                <dt class="col-sm-4">
+                    No. of Guests
+                </dt>
+                <dd class="col-sm-8">
+                    {{eventDetails.noOfGuests}}
+                </dd>
+                <dt class="col-sm-4">
+                    Total Bill
+                </dt>
+                <dd class="col-sm-8">
+                    Rs. {{eventDetails.noOfGuests * eventDetails.eventType.pricePerPerson}}
+                </dd>
+            </dl>
+            <button type="submit" class="btn btn-outline-light w-100" (click)="deleteEvent()">Delete Event</button>
+        </div>
+    </div>
+</div>

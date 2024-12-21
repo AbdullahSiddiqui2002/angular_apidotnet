@@ -1,0 +1,13 @@
+label{
+    text-transform: capitalize;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.form-control:focus {
+    box-shadow: none!important;
+    border-color: none !important;
+}

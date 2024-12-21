@@ -1,0 +1,9 @@
+th{
+    text-transform: capitalize;
+}
+
+h3{
+    text-align: center;
+    text-transform: capitalize;
+    text-wrap: wrap;
+}
